@@ -10,4 +10,4 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 OWNER_ID = int(getenv("OWNER_ID"))
 
 MONGO_DB_URI = ("MONGO_DB_URI","mongodb+srv://shivamyadav:shivam.yadav_23@cluster0.0awjqhr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-MUST_JOIN = getenv("MUST_JOIN", https://t.me/Unknown_RKP1)
+MUST_JOIN = getenv("MUST_JOIN", https://t.me/BotVerseRavi)
